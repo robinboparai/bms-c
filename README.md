@@ -27,7 +27,7 @@ It allows users to manage customer records such as adding, viewing, modifying, a
 
 ---
 
-## ▶️ How to Run (Important)
+## ▶️ How to Run
 
 1. Download all files
 2. Keep `bms.exe` and `customers.dat` in the same folder
