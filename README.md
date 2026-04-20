@@ -54,4 +54,4 @@ gcc main.c customer.c -o bms
 
 ## 👨‍💻 Author
 Robinpreet Singh Boparai
-[![License: MIT](https://shields.io)](https://opensource.org)
+
