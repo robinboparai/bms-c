@@ -53,6 +53,4 @@ gcc main.c customer.c -o bms
 ---
 
 ## 👨‍💻 Author
-
-Your Name
 Robinpreet Singh Boparai
